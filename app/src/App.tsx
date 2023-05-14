@@ -10,12 +10,12 @@ const COLORS = [
   "text-emerald-700",
   "text-teal-700",
   "text-cyan-700",
-  "text-light-blue-700",
+  "text-sky-700",
   "text-blue-700",
   "text-indigo-700",
   "text-violet-700",
   "text-purple-700",
-  "text-fuschia-700",
+  "text-fuchsia-700",
   "text-pink-700"
 ]
 
