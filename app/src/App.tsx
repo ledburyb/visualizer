@@ -36,7 +36,7 @@ const App: Component = () => {
     setParticles((particles) => {
       const newParticles = [];
       for (let i=0; i<particles.length; i++) {
-        if (particles[i].opacity > 0) {
+        if (particles[i].opacity > 0.1) {
           newParticles.push({
             ...particles[i],
             x: particles[i].x + Math.random() + particles[i].speed,
